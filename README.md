@@ -1,6 +1,6 @@
 - 👋 Hi, I’m grepnull
 - 👀 I’m interested in vulnerability analysis, vulnerability discovery, exploitation of vulnerability  and quantitative analysis
-- 🌱 I’m currently learning hardware security
+- 🌱 I’m currently learning hardware security, HPC and AI
 - 😄 Pronouns: Give the future an answer!
   
 
